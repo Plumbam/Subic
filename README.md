@@ -1,2 +1,2 @@
-# notepad-subscriptions
+# Subic
 notepad subscriptions
