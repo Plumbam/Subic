@@ -1,2 +1,2 @@
-# Subic
+# Subbik
 notepad subscriptions
